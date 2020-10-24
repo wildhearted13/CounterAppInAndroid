@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="RESET">دوبارہ ترتیب دیں</string>
+    <string name="SUB">نفی</string>
+    <string name="COUNT">گننا</string>
+
+</resources>
